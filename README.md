@@ -1,2 +1,1 @@
-# hoobank
 # tailwind_hoobank
